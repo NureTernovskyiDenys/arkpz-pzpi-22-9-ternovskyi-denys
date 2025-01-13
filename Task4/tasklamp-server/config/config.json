@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "TaskLampOwner",
+    "password": "StrongPassword123!",
+    "database": "TaskLamp",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port": 1433
+  },
+  "test": {
+    "username": "TaskLampOwner",
+    "password": "StrongPassword123!",
+    "database": "TaskLam123p",
+    "host": "127.0.0.1",
+    "dialect": "mssql",
+    "port": 1433
+  },  
+  "production": {
+    "username": "TaskLampOwner",
+    "password": "StrongPassword123!",
+    "database": "TaskLamp",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
